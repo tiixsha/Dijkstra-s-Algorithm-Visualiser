@@ -1,3 +1,4 @@
+#### **Dijkstra's Algorithm Visualization**:
 
 This project is a Python implementation of **Dijkstra's algorithm** with real-time visualization using **Pygame**. It demonstrates how the algorithm finds the shortest path between two nodes in a graph. The program allows users to input start and end nodes, and it visually animates the process of exploring the graph, updating distances, and highlighting the shortest path.
 
